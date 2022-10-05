@@ -494,7 +494,6 @@ body {
 .features-list__item {
   padding: 30px 29px 26px 29px;
   text-align: center;
-  max-width: 427px;
   background: rgba(35, 4, 157, 0.03);
   border-radius: 10px;
 }
