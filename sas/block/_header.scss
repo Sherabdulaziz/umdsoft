@@ -51,10 +51,14 @@
 }
 
 .headr__btn {
+  padding: 10px;
+  background: transparent;
   margin-left: 35px;
   display: flex;
   align-items: center;
   justify-content: space-between;
+  border: 0.8px solid rgba(25, 28, 47, 0.4);
+  border-radius: 8px;
 }
 .headr__btn-img {
   margin-right: 8px;
