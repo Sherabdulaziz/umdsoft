@@ -1,0 +1,119 @@
+.futer {
+  margin-top: 120px;
+  padding-top: 80px;
+  padding-bottom: 25px;
+  background-color: #37474f;
+}
+.foot__top {
+  display: flex;
+  align-items: center;
+}
+.foot__top-left {
+  display: flex;
+  align-items: center;
+}
+.foot__logo {
+  display: flex;
+}
+.foot__logo-img {
+  width: 30px;
+  height: 30px;
+  margin-right: 15px;
+}
+
+.foot__tel {
+  display: flex;
+}
+.foot__number {
+  font-size: 20px;
+  line-height: 23px;
+  color: #a3a3a3;
+  margin-left: 12px;
+}
+.foot__img {
+  width: 53px;
+  height: 53px;
+  margin-left: auto;
+}
+.foot__inline {
+  width: 100%;
+  height: 1px;
+  background-color: #ffffff;
+  margin-top: 45px;
+}
+.foot__end {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.foot__end-text {
+  font-size: 18px;
+  line-height: 21px;
+  color: #b8b8b8;
+  font-style: italic;
+}
+.foot__adress {
+  display: flex;
+  align-items: center;
+  padding: 14px 10px 14px 20px;
+  border: 1px solid rgba(184, 184, 184, 1);
+  margin-top: 25px;
+  border-radius: 10px;
+}
+.foot__adress-text1 {
+  font-size: 18px;
+  line-height: 21px;
+  color: #b8b8b8;
+  font-style: italic;
+}
+.foot__adress-text2 {
+  font-size: 18px;
+  line-height: 21px;
+  color: #ffffff;
+  font-style: italic;
+  padding: 6px 11px 6px 15px;
+  background-color: rgba(87, 87, 87, 1);
+  border-radius: 10px;
+}
+@media only screen and (max-width: 800px) {
+  .foot__adress-text1 {
+    font-style: normal;
+  }
+  .foot__adress-text2 {
+    font-style: normal;
+  }
+}
+@media only screen and (max-width: 660px) {
+  .foot__top {
+    justify-content: flex-start;
+    align-items: flex-start;
+  }
+  .foot__logo {
+    display: flex;
+    margin-right: auto;
+  }
+  .foot__inline {
+    margin-top: 178px;
+  }
+  .foot__top-left {
+    flex-direction: column;
+  }
+  .foot__adress {
+    margin-top: 20px;
+  }
+  .foot__img {
+    width: 45px;
+    height: 45px;
+  }
+  .foot__end {
+    flex-direction: column;
+    width: 100%;
+    margin-top: 40px;
+  }
+  .foot__tel {
+    margin-top: 45px;
+  }
+  .foot__end-text {
+    margin-right: auto;
+  }
+}
