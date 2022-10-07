@@ -764,10 +764,10 @@ body {
 }
 
 .idea__ism {
-  padding: 15px 210px 13px 20px;
+  padding: 15px 209px 13px 20px;
   border: none;
-  background-color: #F8F8F8;
-  border: 1px solid #EBEBEB;
+  background-color: #f8f8f8;
+  border: 1px solid #ebebeb;
   -webkit-box-shadow: inset -1px -1px 4px rgba(0, 0, 0, 0.05), inset 4px 4px 4px rgba(0, 0, 0, 0.08);
           box-shadow: inset -1px -1px 4px rgba(0, 0, 0, 0.05), inset 4px 4px 4px rgba(0, 0, 0, 0.08);
   border-radius: 10px;
@@ -784,7 +784,7 @@ body {
   font-weight: 500;
   font-size: 18px;
   line-height: 22px;
-  color: #3A3A3A;
+  color: #3a3a3a;
 }
 
 .idea__label-span {
@@ -799,8 +799,8 @@ body {
   width: 100%;
   padding: 15px 210px 13px 20px;
   border: none;
-  background: #F8F8F8;
-  border: 1px solid #EBEBEB;
+  background: #f8f8f8;
+  border: 1px solid #ebebeb;
   -webkit-box-shadow: inset -1px -1px 4px rgba(0, 0, 0, 0.05), inset 4px 4px 4px rgba(0, 0, 0, 0.08);
           box-shadow: inset -1px -1px 4px rgba(0, 0, 0, 0.05), inset 4px 4px 4px rgba(0, 0, 0, 0.08);
   border-radius: 10px;
@@ -815,8 +815,8 @@ body {
   max-width: 800px;
   height: 130px;
   width: 100%;
-  background: #F8F8F8;
-  border: 1px solid #EBEBEB;
+  background: #f8f8f8;
+  border: 1px solid #ebebeb;
   -webkit-box-shadow: inset -1px -1px 4px rgba(0, 0, 0, 0.05), inset 4px 4px 4px rgba(0, 0, 0, 0.08);
           box-shadow: inset -1px -1px 4px rgba(0, 0, 0, 0.05), inset 4px 4px 4px rgba(0, 0, 0, 0.08);
   border-radius: 10px;
@@ -834,8 +834,8 @@ body {
   font-size: 24px;
   line-height: 29px;
   text-align: center;
-  color: #FFFFFF;
-  background-color: #DFBB7F;
+  color: #ffffff;
+  background-color: #dfbb7f;
   border-radius: 10px;
   border: none;
   margin-left: auto;
